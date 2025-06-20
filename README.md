@@ -1,10 +1,10 @@
-## 1. AWS EKS Setup:
+# 1. AWS EKS Setup:
 - Refer AWS EKS setup from ashok website. Refer the below URL link
 - https://www.ashokit.in/yt-content/softwares-installation
 - or refer the below youtube URL link
 - https://www.youtube.com/watch?v=is99tq4Zwsc
 
-## 2. Kubernetes Architecture:
+# 2. Kubernetes Architecture:
 - 
 => K8S will follow cluster architecture.
 
@@ -12,9 +12,8 @@
 
 => In K8s Cluster we will have master node (control plane) and worker nodes.
 
-========================
-K8S Cluster Components
-========================
+
+## K8S Cluster Components
 
 1) Control Node (Master Node)
 
@@ -60,9 +59,9 @@ Note: In K8s, everything will be represented as POD only.
 
 => Pods are used to deploy applications and manage their lifecycle within a Kubernetes environment.
 
-==================
-K8S Cluster Setup
-==================
+
+## K8S Cluster Setup
+
 
 => We can setup k8s cluster in multiple ways
 
