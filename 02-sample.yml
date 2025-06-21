@@ -1,0 +1,7 @@
+employee:
+  id: 68686
+  name: Smith
+  address:
+    city: Hyd
+    state: TG
+    country: India
