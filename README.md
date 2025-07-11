@@ -3,6 +3,8 @@
 - https://www.ashokit.in/yt-content/softwares-installation
 - or refer the below youtube URL link
 - https://www.youtube.com/watch?v=is99tq4Zwsc
+- Ashok IT EKS Cluster video: https://youtu.be/is99tq4Zwsc?si=0h53-S7WFtDNwAMh
+- Ashok IT Devops Notes: https://github.com/LUK34/DevOps-Documents/blob/main/05-EKS-Setup.md
 
 # 2. Kubernetes Architecture:
 - 
