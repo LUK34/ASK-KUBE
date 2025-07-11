@@ -227,6 +227,14 @@ Note: When we delete a namespace all the resources belongs to that namespace als
 ### display k8s namespaces
 kubectl get ns
 
+### KCNA Exam Prep Material
+Risabh -> How he passed KCNA
+https://youtu.be/6no8zauQH88?si=L2lTOLActyl9qucE
+
+Notes Material:
+https://notes.kaiwalyakoparkar.com/kcna
+
+
 ### get pods of specific namespace
 kubectl get pods -n kube-system
 
